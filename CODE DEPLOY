@@ -13,6 +13,7 @@ systemctl status codedeploy-agent
 
 Lauch ubuntu ec2 instance----> allow port no 80 & 22
 create IAM ROLE for ec2 for codedeploy -----attach this IAM role to ec2
+AmazonEC2RoleforAWSCodeDeploy ---> AWS policy
 Install code deploy agent on Ec2
 
 Go to developer tools and go to code deplpoy
